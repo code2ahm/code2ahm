@@ -1,5 +1,3 @@
-<h1 align="center">.-.. --- ...- . -.. .... . .-.</h1>
-
 ## *👋 Hi there, I'm Ahm*
     
 - ***A 17 year old diving into a technological realm!***
