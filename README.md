@@ -3,6 +3,7 @@
 - ***A 17 year old diving into a technological realm!***
   - ***Headquarters - [Bionic Gridlock](https://discord.gg/w2hjjanuD4)***
   - ***Discord bot - [Assister](https://discord.ly/assister)***
+  - ***Reach me out - https://linktr.ee/ahm.fr***
 
 ## Discord:
   [![Discord Presence](https://lanyard.cnrad.dev/api/1202651568667885570)](https://discord.com/users/1202651568667885570)
