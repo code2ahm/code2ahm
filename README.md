@@ -1,8 +1,7 @@
 ## *👋 Hi there, I'm Ahm*
     
-- ***A 17 year old diving into a technological realm!***
-  - ***Headquarters - [Bionic Gridlock](https://discord.gg/w2hjjanuD4)***
-  - ***Discord bot - [Assister](https://discord.ly/assister)***
+- ***A 19 year old diving into a technological realm!***
+  - ***HQ - [Bionic Gridlock](https://discord.gg/w2hjjanuD4)***
   - ***Reach me out - https://linktr.ee/ahm.fr***
 
 ## Discord:
@@ -12,7 +11,7 @@
 <a href="https://instagram.com/ahmm.fr" target="_blank" rel="noopener noreferrer">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png" height="30px" width="30px">
 </a>&nbsp;&nbsp;
-<a href="https://twitter.com/ahmuuy" target="_blank" rel="noopener noreferrer">
+<a href="https://twitter.com/ahmmmyk" target="_blank" rel="noopener noreferrer">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="Twitter" height="30px" width="30px">
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/ahmar-yaseen-950b54324/" target="_blank" rel="noopener noreferrer">
