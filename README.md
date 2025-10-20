@@ -14,9 +14,6 @@
 <a href="https://twitter.com/ahmmmyk" target="_blank" rel="noopener noreferrer">
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="Twitter" height="30px" width="30px">
 </a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ahmar-yaseen-950b54324/" target="_blank" rel="noopener noreferrer">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-white-icon.png" alt="LinkedIn" height="30px" width="30px">
-</a>
 
 ## Profile visitors:
   ![](https://profile-counter.glitch.me/code2ahm/count.svg)
