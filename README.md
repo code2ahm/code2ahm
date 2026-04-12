@@ -1,24 +1,55 @@
-## *👋 Hi there, I'm Ahm*
-    
-- ***A 19 year old diving into a technological realm!***
-  - ***HQ - [Bionic Gridlock](https://discord.gg/w2hjjanuD4)***
-  - ***Reach me out - https://linktr.ee/ahm.fr***
+<div align="center">
 
-## Discord:
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1202651568667885570)](https://discord.com/users/1202651568667885570)
+```
+ █████╗ ██╗  ██╗███╗   ███╗
+██╔══██╗██║  ██║████╗ ████║
+███████║███████║██╔████╔██║
+██╔══██║██╔══██║██║╚██╔╝██║
+██║  ██║██║  ██║██║ ╚═╝ ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
-## Socials:
-<a href="https://instagram.com/ahmm.fr" target="_blank" rel="noopener noreferrer">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png" height="30px" width="30px">
-</a>&nbsp;&nbsp;
-<a href="https://twitter.com/ahmmmyk" target="_blank" rel="noopener noreferrer">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" alt="Twitter" height="30px" width="30px">
-</a>&nbsp;&nbsp;
+**19 · Srinagar → internet**  
+Building things at the intersection of code and curiosity.
 
-## Profile visitors:
-  ![](https://profile-counter.glitch.me/code2ahm/count.svg)
+[![Discord](https://img.shields.io/badge/Discord-Bionic_Gridlock-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/w2hjjanuD4)
+[![Instagram](https://img.shields.io/badge/Instagram-@failed.ahm-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/failed.ahm)
+[![Twitter](https://img.shields.io/badge/Twitter-@worse4sure-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/worse4sure)
+[![Linktree](https://img.shields.io/badge/Linktree-ahm.fr-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/ahm.fr)
 
-## Github Stats:  
-  ![Stats](https://github-readme-stats.vercel.app/api?username=code2ahm&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)</br>
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=code2ahm&theme=dark)</br>
-  ![Contributions](https://github-contributor-stats.vercel.app/api?username=code2ahm&limit=3&theme=dark&combine_all_yearly_contributions=true)</br>
+</div>
+
+---
+
+```js
+const ahm = {
+  age: 19,
+  location: "Srinagar, Kashmir",
+  focus: ["backend", "open-source", "systems"],
+  currentlyLearning: "system design & architecture",
+  reachMe: "linktr.ee/ahm.fr"
+}
+```
+
+---
+
+### tech stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### github stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code2ahm&theme=dark&hide_border=true&background=0d1117" width="49%">
+
+---
+
+<div align="center">
+<sub>open to collabs · always building · never idle</sub>
+</div>
