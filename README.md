@@ -14,7 +14,7 @@ Building things at the intersection of code and curiosity.
 
 [![Discord](https://img.shields.io/badge/Discord-Bionic_Gridlock-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/w2hjjanuD4)
 [![Instagram](https://img.shields.io/badge/Instagram-@failed.ahm-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/failed.ahm)
-[![Twitter](https://img.shields.io/badge/Twitter-@worse4sure-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/worse4sure)
+[![Twitter](https://img.shields.io/badge/Twitter-@worse4sure-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ahm4sure)
 [![Linktree](https://img.shields.io/badge/Linktree-ahm.fr-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/ahm.fr)
 
 </div>
