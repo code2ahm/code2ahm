@@ -1,55 +1,150 @@
 <div align="center">
 
-```
- █████╗ ██╗  ██╗███╗   ███╗
-██╔══██╗██║  ██║████╗ ████║
-███████║███████║██╔████╔██║
-██╔══██║██╔══██║██║╚██╔╝██║
-██║  ██║██║  ██║██║ ╚═╝ ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
-```
+# Hi, I am Ahm
+**19 · Srinagar, Kashmir → internet**  
+Backend engineer. Building at the intersection of open-source and systems.
 
-**19 · Srinagar → internet**  
-Building things at the intersection of code and curiosity.
+[![Portfolio](https://img.shields.io/badge/Portfolio-devahm.xyz-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://devahm.xyz)
+[![Twitter](https://img.shields.io/badge/Twitter-@ahm4sure-181717?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ahm4sure)
+[![Instagram](https://img.shields.io/badge/Instagram-@failed.ahm-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/failed.ahm)
+[![Linktree](https://img.shields.io/badge/Linktree-ahm.fr-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ahm.fr)
+[![GitHub](https://img.shields.io/badge/GitHub-code2ahm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/code2ahm)
 
-[![Discord](https://img.shields.io/badge/Discord-Bionic_Gridlock-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/w2hjjanuD4)
-[![Instagram](https://img.shields.io/badge/Instagram-@failed.ahm-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/failed.ahm)
-[![Twitter](https://img.shields.io/badge/Twitter-@worse4sure-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ahm4sure)
-[![Linktree](https://img.shields.io/badge/Linktree-ahm.fr-39E09B?style=flat&logo=linktree&logoColor=white)](https://linktr.ee/ahm.fr)
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=code2ahm&style=for-the-badge&color=555555) </br> </br>
+19 y/o backend engineer from Srinagar, Kashmir. I build APIs, bots, and automation tools — </br>
+mostly things that solve a real problem or scratch my own itch. Currently going deep on </br>
+system design and distributed systems. Open source when I can, shipping always. </br>
+
+---
 
 </div>
 
----
+</br>
 
-```js
-const ahm = {
-  age: 19,
-  location: "Srinagar, Kashmir",
-  focus: ["backend", "open-source", "systems"],
-  currentlyLearning: "system design & architecture",
-  reachMe: "linktr.ee/ahm.fr"
-}
-```
 
----
+### My Projects
 
-### tech stack
+<table>
+<tr>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<td width="33%" valign="top">
 
----
+### Atlas Coup
+A real-time web platform built for Tracking daily habits and long term goals. Focuses on speed, clean UX, and reliable infrastructure under the hood.
 
-### github stats
+**what it does**
+- Real-time user analytics
+- Clean, minimal frontend interface
+- Optimized backend for low-latency responses
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=code2ahm&theme=dark&hide_border=true&background=0d1117" width="49%">
+**Tech Used**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+<br>
+
+[![Visit](https://img.shields.io/badge/Visit-atlcoup.web.app-000000?style=for-the-badge&logo=apacheavro&logoColor=white)](https://atlcoup.web.app)
+
+</td>
+
+<td width="33%" valign="top">
+
+### ASE - Kashmir
+Digital platform for an educational initiative based in Kashmir. Built to be accessible, fast, and reachable across low-bandwidth connections.
+
+**what it does**
+- Information hub for students and educators
+- Accessible design for local reach
+- Lightweight and fast on slow networks
+
+**Tech Used**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+<br>
+
+[![Visit](https://img.shields.io/badge/Visit-ase--kashmir.web.app-000000?style=for-the-badge&logo=apacheavro&logoColor=white)](https://ase-kashmir.web.app)
+
+</td>
+
+<td width="33%" valign="top">
+
+### Assister Bot
+A Discord bot built for automation and server assistance. Lightweight, modular, and built to handle real server workloads without bloat.
+
+**what it does**
+- Server automation and moderation tools
+- Custom command handling
+- Fast responses, minimal resource usage
+
+**Tech used**
+
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+<br>
+
+[![Visit](https://img.shields.io/badge/Visit-assisterbot.xyz-000000?style=for-the-badge&logo=apacheavro&logoColor=white)](https://assisterbot.xyz)
+[![Docs](https://img.shields.io/badge/Docs-assisterbot.xyz/docs-000000?style=for-the-badge&logo=gitbook&logoColor=white)](https://assisterbot.xyz/docs)
+
+</td>
+
+</tr>
+</table>
+
+
+
+
+
+
+</br>
+
+
+### Tech Stack
+
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+
+
+
+<br/>
+ 
+
+### Github stats
+
+<div align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=code2ahm&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+ 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=code2ahm&theme=dark&hide_border=true)](https://github.com/code2ahm)
+</br>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=code2ahm&theme=dark&hide_border=true&layout=compact&count_private=true" height="180"/>
+
+</div>
+
 
 ---
 
 <div align="center">
-<sub>open to collabs · always building · never idle</sub>
+<sub>// always building · never idle</sub>
 </div>
