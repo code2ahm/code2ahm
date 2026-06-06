@@ -2,7 +2,7 @@
 
 # Hi, I am Ahm
 **19 · Srinagar, Kashmir → internet**  
-Backend engineer. Building at the intersection of open-source and systems.
+Full stack developer. Building at the intersection of open-source and systems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-devahm.xyz-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://devahm.xyz)
 [![Twitter](https://img.shields.io/badge/Twitter-@ahm4sure-181717?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/ahm4sure)
@@ -14,7 +14,7 @@ Backend engineer. Building at the intersection of open-source and systems.
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=code2ahm&style=for-the-badge&color=555555) </br> </br>
-19 y/o backend engineer from Srinagar, Kashmir. I build APIs, bots, and automation tools — </br>
+19 y/o full stack developer from Srinagar, Kashmir. I build APIs, bots, and automation tools — </br>
 mostly things that solve a real problem or scratch my own itch. Currently going deep on </br>
 system design and distributed systems. Open source when I can, shipping always. </br>
 
