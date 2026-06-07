@@ -10,9 +10,6 @@ Full stack developer. Building at the intersection of open-source and systems.
 [![Linktree](https://img.shields.io/badge/Linktree-ahm.fr-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ahm.fr)
 [![GitHub](https://img.shields.io/badge/GitHub-code2ahm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/code2ahm)
 
-
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=code2ahm&style=for-the-badge&color=555555) </br> </br>
 19 y/o full stack developer from Srinagar, Kashmir. I build APIs, bots, and automation tools — </br>
 mostly things that solve a real problem or scratch my own itch. Currently going deep on </br>
@@ -24,16 +21,41 @@ system design and distributed systems. Open source when I can, shipping always. 
 
 </br>
 
-
 ### My Projects
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### CrawlScope
+A lightweight website auditing tool that scans any URL and instantly generates a focused audit — SEO, Performance, Core Web Vitals, Accessibility, and Technical Health. No accounts, no database, no fluff.
+
+**what it does**
+- Real Lighthouse audit via headless Chromium
+- Core Web Vitals — LCP, CLS, INP, TTFB, FCP
+- 50+ checks across SEO, A11y, and Technical Health
+- Priority fixes with why / how / impact
+- Export to Markdown, HTML, PDF, JSON
+
+**Tech Used**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=puppeteer&logoColor=white)
+
+<br>
+
+[![Visit](https://img.shields.io/badge/Visit-crawlscope.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://crawlscope.vercel.app)
+[![Repo](https://img.shields.io/badge/Repo-code2ahm/crawlscope-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/code2ahm/crawlscope)
+
+</td>
+
+<td width="50%" valign="top">
 
 ### Atlas Coup
-A real-time web platform built for Tracking daily habits and long term goals. Focuses on speed, clean UX, and reliable infrastructure under the hood.
+A real-time web platform built for tracking daily habits and long term goals. Focuses on speed, clean UX, and reliable infrastructure under the hood.
 
 **what it does**
 - Real-time user analytics
@@ -52,7 +74,10 @@ A real-time web platform built for Tracking daily habits and long term goals. Fo
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+<tr>
+
+<td width="50%" valign="top">
 
 ### ASE - Kashmir
 Digital platform for an educational initiative based in Kashmir. Built to be accessible, fast, and reachable across low-bandwidth connections.
@@ -75,7 +100,7 @@ Digital platform for an educational initiative based in Kashmir. Built to be acc
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### Assister Bot
 A Discord bot built for automation and server assistance. Lightweight, modular, and built to handle real server workloads without bloat.
@@ -100,17 +125,10 @@ A Discord bot built for automation and server assistance. Lightweight, modular, 
 </tr>
 </table>
 
-
-
-
-
-
 </br>
-
 
 ### Tech Stack
 
- 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -125,23 +143,18 @@ A Discord bot built for automation and server assistance. Lightweight, modular, 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
-
-
 <br/>
- 
 
 ### Github stats
 
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=code2ahm&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
- 
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=code2ahm&theme=dark&hide_border=true)](https://github.com/code2ahm)
 </br>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=code2ahm&theme=dark&hide_border=true&layout=compact&count_private=true" height="180"/>
 
 </div>
-
 
 ---
 
