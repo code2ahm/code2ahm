@@ -11,7 +11,7 @@ Full stack developer. Building at the intersection of open-source and systems.
 [![GitHub](https://img.shields.io/badge/GitHub-code2ahm-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/code2ahm)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=code2ahm&style=for-the-badge&color=555555) </br> </br>
-19 y/o full stack developer from Srinagar, Kashmir. I build APIs, bots, and automation tools — </br>
+19 y/o full stack developer from Srinagar, Kashmir. I build APIs, bots, and automation tools - </br>
 mostly things that solve a real problem or scratch my own itch. Currently going deep on </br>
 system design and distributed systems. Open source when I can, shipping always. </br>
 
@@ -29,11 +29,11 @@ system design and distributed systems. Open source when I can, shipping always. 
 <td width="50%" valign="top">
 
 ### CrawlScope
-A lightweight website auditing tool that scans any URL and instantly generates a focused audit — SEO, Performance, Core Web Vitals, Accessibility, and Technical Health. No accounts, no database, no fluff.
+A lightweight website auditing tool that scans any URL and instantly generates a focused audit - SEO, Performance, Core Web Vitals, Accessibility, and Technical Health. No accounts, no database, no fluff.
 
 **what it does**
 - Real Lighthouse audit via headless Chromium
-- Core Web Vitals — LCP, CLS, INP, TTFB, FCP
+- Core Web Vitals - LCP, CLS, INP, TTFB, FCP
 - 50+ checks across SEO, A11y, and Technical Health
 - Priority fixes with why / how / impact
 - Export to Markdown, HTML, PDF, JSON
@@ -55,22 +55,26 @@ A lightweight website auditing tool that scans any URL and instantly generates a
 <td width="50%" valign="top">
 
 ### Atlas Coup
-A real-time web platform built for tracking daily habits and long term goals. Focuses on speed, clean UX, and reliable infrastructure under the hood.
+A real-time productivity platform built on Firebase and React. Habits, tasks, goals, journaling, and analytics - all in one dark-first dashboard. No subscriptions, no clutter.
 
 **what it does**
-- Real-time user analytics
-- Clean, minimal frontend interface
-- Optimized backend for low-latency responses
+- Habit tracker, task manager, goal setting, daily journal
+- Unified analytics dashboard with progress visualisation
+- Real-time Firestore sync + Firebase Auth
+- Smooth Framer Motion UI, Quicksand typeface, `#050811` dark base
 
 **Tech Used**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 <br>
 
 [![Visit](https://img.shields.io/badge/Visit-atlcoup.web.app-000000?style=for-the-badge&logo=apacheavro&logoColor=white)](https://atlcoup.web.app)
+[![Repo](https://img.shields.io/badge/Repo-code2ahm/atlascoup-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/code2ahm/atlascoup)
 
 </td>
 
