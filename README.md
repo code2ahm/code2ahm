@@ -153,9 +153,6 @@ A Discord bot built for automation and server assistance. Lightweight, modular, 
 
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=code2ahm&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=code2ahm&theme=dark&hide_border=true)](https://github.com/code2ahm)
-</br>
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=code2ahm&theme=dark&hide_border=true&layout=compact&count_private=true" height="180"/>
 
 </div>
